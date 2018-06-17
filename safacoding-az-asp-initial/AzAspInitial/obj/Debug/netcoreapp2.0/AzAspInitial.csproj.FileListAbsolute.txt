@@ -1,0 +1,12 @@
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\bin\Debug\netcoreapp2.0\AzAspInitial.deps.json
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\bin\Debug\netcoreapp2.0\AzAspInitial.runtimeconfig.json
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\bin\Debug\netcoreapp2.0\AzAspInitial.runtimeconfig.dev.json
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\bin\Debug\netcoreapp2.0\AzAspInitial.dll
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\bin\Debug\netcoreapp2.0\AzAspInitial.pdb
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\AzAspInitial.csprojResolveAssemblyReference.cache
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\AzAspInitial.csproj.CoreCompileInputs.cache
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\AzAspInitial.AssemblyInfoInputs.cache
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\AzAspInitial.AssemblyInfo.cs
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\AzAspInitial.dll
+C:\Users\rickyowen\source\repos\az-asp-initial\safacoding-az-asp-initial\AzAspInitial\obj\Debug\netcoreapp2.0\AzAspInitial.pdb
